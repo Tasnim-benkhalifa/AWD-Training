@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>esprit</groupId>
-    <artifactId>candidat</artifactId>
+    <artifactId>job</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>candidat</name>
     <description>candidat</description>
